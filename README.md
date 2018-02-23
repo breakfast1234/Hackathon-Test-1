@@ -1,2 +1,13 @@
 # Hackathon Test 1
-I'm following GitHub's guide. It told me to write this.
+Someone make an edit and fix the "code"
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
