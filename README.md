@@ -1,6 +1,4 @@
 # Hackathon Test 1
-Someone make an edit and fix the "code"
-
 1
 2
 3
